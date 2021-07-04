@@ -26,7 +26,6 @@
 10.15.7 Catalina (current EFI)
 
 # Not Working
-* Bluetooth
 
 # Thanks
 [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
