@@ -6,8 +6,8 @@
 | MEM      | Samsung DDR4 2666 8GB * 2 |
 | HDD      | Samsung 980 EVO 2TB       |
 | GPU      | Sapphire RX460 2G OC      |
-| Ethernet | Intel AC9462              |
-| WIFI     | RTL8168                   |
+| Ethernet | RTL8168                   |
+| WIFI     | Intel AC9462              |
 
 # BIOS settings
 | Item              | Value                      |
